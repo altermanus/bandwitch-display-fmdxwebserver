@@ -15,7 +15,7 @@
     'use strict';
 
     const PLUGIN_NAME = 'Bandwidth Display';
-    const PLUGIN_VERSION = '1.5';
+    const PLUGIN_VERSION = '0.1b';
 
     // -----------------------------------------------------------------------
     // Widget CSS
